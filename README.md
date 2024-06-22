@@ -18,52 +18,9 @@ First, clone the repository to your local machine:
 
 ```bash
 git clone <repository-url>
-
 cd QBH-UNIVERSE
 npm i 
 npm run start
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
-## Installation
-
-```bash
-$ npm install
-```
-
-## Running the app
-
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
 ```
 
 ## Support
