@@ -1,3 +1,36 @@
+# User Management API
+
+This is a simple User Management API built with NestJS. It provides endpoints to create, read, update, and delete users. The API is intended to be used with an Angular frontend.
+
+## Prerequisites
+
+- Node.js (version v14.21.3 )
+- npm (Node Package Manager npm@6.14.18)
+- NestJS CLI (optional, but recommended 8.0.0 globally)
+
+## Getting Started
+
+Follow these steps to set up and run the project locally.
+
+### Clone the Repository
+
+First, clone the repository to your local machine:
+
+```bash
+git clone <repository-url>
+
+cd QBH-UNIVERSE
+npm i 
+npm run start
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
